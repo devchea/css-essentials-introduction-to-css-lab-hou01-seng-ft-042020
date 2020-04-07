@@ -9,7 +9,7 @@ div {
   /* Your code here! */
   width: 700px;
   margin: auto;
-  font-family: Helvetica Nueue;
+  font-family: "Helvetica Nueue";
   background-color: White;
   padding: 30px;
 }
